@@ -36,3 +36,7 @@ Surgery: In some cases, surgical intervention may be necessary to correct eye al
 Prism Glasses: Special lenses that help reduce eye strain and improve binocular fusion.
 
 Addressing these ocular conditions early on is crucial for maintaining healthy binocular vision and overall visual comfort.
+
+## Acknowledment
+https://github.com/Victor-Ikechukwu Thank you for your invaluable insights, feedback, and continuous support throughout the development of this project
+
